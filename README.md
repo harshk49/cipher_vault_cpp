@@ -19,7 +19,7 @@ This project implements various classical encryption and decryption algorithms i
    git clone https://github.com/harshk49/cipher_vault_cpp.git
 2. Compile the code:
    ```bash
-   g++ main.cpp -o cipher_vault
+   g++ cipher.cpp -o cipher_vault
 3. Run the program:
    ```bash
    ./cipher_vault
